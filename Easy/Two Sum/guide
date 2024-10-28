@@ -1,0 +1,2 @@
+Solved using a nested for loop, bad for time
+Can also be solved via a hash map for a faster solution.
